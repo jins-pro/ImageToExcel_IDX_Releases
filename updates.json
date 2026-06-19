@@ -1,10 +1,10 @@
 {
   "appId": "ImageToExcel_IDX",
   "appName": "ImageToExcel_IDX",
-  "latestVersion": "3.0",
+  "latestVersion": "3.1",
   "versions": [
     {
-      "version": "3.0",
+      "version": "3.1",
       "releaseDate": "2026-06-19",
       "downloadUrl": "https://github.com/jins-pro/ImageToExcel_IDX_Releases/releases/download/v3.1/ImageToExcel_IDX_v3.1.zip",
       "sha256": "",
