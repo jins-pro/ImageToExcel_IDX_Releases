@@ -10,7 +10,18 @@
       "sha256": "",
       "mandatory": false,
       "releaseNotes": [
-        "자동 업데이트 기능 확인 구조가 포함된 최초 배포 준비 버전입니다.",
+        "Ver. 3.1 자동 업데이트 테스트용 배포본입니다.",
+        "Ver. 3.0에서 Ver. 3.1로 업데이트되는지 확인합니다."
+      ]
+    },
+    {
+      "version": "3.0",
+      "releaseDate": "2026-06-19",
+      "downloadUrl": "https://github.com/jins-pro/ImageToExcel_IDX_Releases/releases/download/v3.0/ImageToExcel_IDX_v3.0.zip",
+      "sha256": "",
+      "mandatory": false,
+      "releaseNotes": [
+        "자동 업데이트 기능이 포함된 최초 배포 버전입니다.",
         "현재 버전 표시, 업데이트 확인, 업데이트 안내창 기능이 포함되어 있습니다."
       ]
     }
