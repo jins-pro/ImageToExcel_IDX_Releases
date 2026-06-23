@@ -1,8 +1,19 @@
 {
   "appId": "ImageToExcel_IDX",
   "appName": "ImageToExcel_IDX",
-  "latestVersion": "3.1",
+  "latestVersion": "3.2",
   "versions": [
+    {
+      "version": "3.2",
+      "releaseDate": "2026-06-23",
+      "downloadUrl": "https://github.com/jins-pro/ImageToExcel_IDX_Releases/releases/download/v3.1/ImageToExcel_IDX_v3.1.zip",
+      "sha256": "",
+      "mandatory": false,
+      "releaseNotes": [
+        "Ver. 3.2 자동 업데이트 테스트용 배포본입니다.",
+        "Ver. 3.0에서 Ver. 3.1, 3.2로 업데이트되는지 확인합니다."
+      ]
+    },
     {
       "version": "3.1",
       "releaseDate": "2026-06-19",
