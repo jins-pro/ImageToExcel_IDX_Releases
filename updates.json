@@ -1,15 +1,18 @@
 {
   "appId": "ImageToExcel_IDX",
   "appName": "ImageToExcel_IDX",
-  "latestVersion": "3.2",
-  "version": "3.1",
-      "releaseDate": "2026-06-19",
+  "latestVersion": "3.1",
+  "versions": [
+    {
+      "version": "3.1",
+      "releaseDate": "2026-11-23",
       "downloadUrl": "https://github.com/jins-pro/ImageToExcel_IDX_Releases/releases/download/v3.1/ImageToExcel_IDX_v3.1.zip",
-      "sha256": "",
+      "sha256": "96C7CDD8B8E7DE4B388F087AEB22E75AB019F1B13D922C93F958E0D08D02B05C",
       "mandatory": false,
       "releaseNotes": [
-        "Ver. 3.1 자동 업데이트 테스트용 배포본입니다.",
-        "Ver. 3.0에서 Ver. 3.1로 업데이트되는지 확인합니다."
+        "파일명 깊이에 따라 기본 Step을 정하고, 같은 Step의 페이지 번호를 자동으로 계산합니다.",
+        "빈 페이지의 Step을 기존 그룹에 맞추면 해당 그룹의 페이지 번호가 다시 계산됩니다.",
+        "빈 페이지의 File 표시 이름을 바꿀 수 있습니다."
       ]
     },
     {
